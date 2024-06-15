@@ -2,5 +2,5 @@
 
 ## Services
 
-![__assets__%architecture.png](__assets__%architecture.png)
+![architecture](%__assets__%architecture.png)
 
