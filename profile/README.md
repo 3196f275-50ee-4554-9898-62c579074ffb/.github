@@ -2,6 +2,6 @@
 
 ## Services
 
-![architecture.png](..%2F__assets__%2FUntitled.jpg.png)
+![architecture.png](..%2F__assets__%2FUntitled.jpg)
 
 
